@@ -3,48 +3,33 @@
 
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Badreldeen Ibrahim, people call me Badreldeen, a recent computer science graduate from [The University of Texas at Dallas](https://utdallas.edu/). I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Badreldeen Ibrahim, a passionate software engineer currently working as an ERP system admin at Al-Shaheen Company.
 
-[![Linkedin Badge](https://img.shields.io/badge/-badreldeenibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badreldeen-ibrahim/)](https://www.linkedin.com/in/badreldeen-ibrahim/)
-[![Instagram Badge](https://img.shields.io/badge/-badreldeenibrahim-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/badreldeenibrahim/)](https://instagram.com/badreldeenibrahim)
-[![Youtube Badge](https://img.shields.io/badge/-badreldeenibrahim-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/badreldeenibrahim)](https://www.youtube.com/c/badreldeenibrahim)
-[![Medium Badge](https://img.shields.io/badge/-@badreldeenibrahim-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@badreldeenibrahim/)](https://medium.com/@badreldeenibrahim)
-[![Gmail Badge](https://img.shields.io/badge/-badreldeenibrahim@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:badreldeenibrahim@gmail.com)](mailto:badreldeenibrahim@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-badreldeenibrahim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/badreldeen-ibrahim/)](https://www.linkedin.com/in/badreldeen-ibrahim)
+[![Gmail Badge](https://img.shields.io/badge/-badreldeen1998@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:badreldeenibrahim@gmail.com)](mailto:badreldeenibrahim@gmail.com)
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat-square&logo=elasticsearch)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql)
-![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![DigitalOcean](https://img.shields.io/badge/-Digital%20Ocean-darkblue?style=flat-square&logo=digitalocean)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-232F7E?style=flat-square&logo=microsoft-azure)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
+
+
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3776AB&logo=Python&logoColor=FFFFFF)](https://www.python.org/) | [![notion-portfolio-tracker](https://img.shields.io/static/v1?label=&message=notion-portfolio-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-portfolio-tracker) [![notion-interactive-brokers](https://img.shields.io/static/v1?label=&message=notion-interactive-brokers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-interactive-brokers) [![notion-habit-tracker](https://img.shields.io/static/v1?label=&message=notion-habit-tracker&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/notion-habit-tracker) [![hackclubnmit/certificate-generator](https://img.shields.io/static/v1?label=&message=certificate-generator&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackclubnmit/certificate-generator) [![todo-cli](https://img.shields.io/static/v1?label=&message=todo-cli&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-cli) [![option-chain-notifier](https://img.shields.io/static/v1?label=&message=option-chain-notifier&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/option-chain-notifier) [![learnmate-backend](https://img.shields.io/static/v1?label=&message=learnmate-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/learnmate-backend) |
+| [![Go](https://img.shields.io/static/v1?label=&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF)](https://go.dev/) | [![rocket-server](https://img.shields.io/static/v1?label=&message=rocket-server&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/rocket-server) [![titan-shell](https://img.shields.io/static/v1?label=&message=titan-shell&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/titan-shell) [![dataload-db](https://img.shields.io/static/v1?label=&message=dataload-db&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dataload-db) |
+| [![Flask](https://img.shields.io/static/v1?label=&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF)](https://flask.palletsprojects.com/en/2.1.x/) | [![bitgrit-personality-api](https://img.shields.io/static/v1?label=&message=bitgrit-personality-api&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/bitgrit-personality-api) [![tradingview-discord-middleware](https://img.shields.io/static/v1?label=&message=tradingview-discord-middleware&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/tradingview-discord-middleware) |
+| [![FastAPI](https://img.shields.io/static/v1?label=&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF)](https://fastapi.tiangolo.com/) | [![browser-hot-reloading](https://img.shields.io/static/v1?label=&message=browser-hot-reloading&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/browser-hot-reloading) [![strategical-trading](https://img.shields.io/static/v1?label=&message=strategical-trading%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/strategical-trading) |
+| [![Django](https://img.shields.io/static/v1?label=&message=Django&color=092E20&logo=Django&logoColor=FFFFFF)](https://www.djangoproject.com/) | [![todo-list-battle](https://img.shields.io/static/v1?label=&message=todo-list-battle%20(WIP)&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/todo-list-battle) |
+| [![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![nextjs-starter-template](https://img.shields.io/static/v1?label=&message=nextjs-starter-template&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/nextjs-starter-template) [![anuragsingh.dev](https://img.shields.io/static/v1?label=&message=anuragsingh.dev&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/anuragsingh.dev) [![supabase-uptime-monitor](https://img.shields.io/static/v1?label=&message=supabase-uptime-monitor&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/supabase-uptime-monitor) |
+| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=JavaScript&logoColor=FFFFFF)](https://javascript.info/) | [![unshorts](https://img.shields.io/static/v1?label=&message=unshorts&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/unshorts) |
+| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![speaking-geo-assistant-backend](https://img.shields.io/static/v1?label=&message=speaking-geo-assistant-backend&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/speaking-geo-assistant-backend) [![dietary-care](https://img.shields.io/static/v1?label=&message=dietary-care&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dietary-care) |
+| [![Problem solving](https://img.shields.io/static/v1?label=&message=Problem%20solving&color=FFA116&logo=LeetCode&logoColor=FFFFFF)](https://hackattic.com/u/ashleymavericks) | [![leetcoding](https://img.shields.io/static/v1?label=&message=leetcoding&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/leetcoding) [![hackerrank](https://img.shields.io/static/v1?label=&message=hackerrank&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackerrank) [![hackattic](https://img.shields.io/static/v1?label=&message=hackattic&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/hackattic) [![kata-log](https://img.shields.io/static/v1?label=&message=kata-log&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/kata-log) [![sadservers](https://img.shields.io/static/v1?label=&message=sadservers&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/sadservers) [![code.golf](https://img.shields.io/static/v1?label=&message=code.golf&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/code.golf) [![deep-ml](https://img.shields.io/static/v1?label=&message=deep-ml&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/deep-ml) |
+| [![Spark AR](https://img.shields.io/static/v1?label=&message=Spark%20AR&color=FF5C83&logo=Spark%20AR&logoColor=FFFFFF)](https://sparkar.facebook.com/ar-studio/) | [![AR-PiZero](https://img.shields.io/static/v1?label=&message=AR-PiZero&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/AR-PiZero) |
+| [![Shell](https://img.shields.io/static/v1?label=&message=Shell&color=4EAA25&logo=GNU%20Bash&logoColor=FFFFFF)](https://www.gnu.org/) | [![dotfiles-public](https://img.shields.io/static/v1?label=&message=dotfiles-public&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/ashleymavericks/dotfiles-public) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=badreldeen98&count_private=true&show_icons=true&include_all_commits=true)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=badreldeen98.badreldeen98)
-````
-
-Make sure to update the links (e.g., LinkedIn, Instagram, YouTube, Medium, Gmail) with your actual profiles if they differ. Let me know if you'd like further customization!
